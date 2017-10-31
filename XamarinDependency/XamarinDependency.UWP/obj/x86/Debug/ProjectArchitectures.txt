@@ -1,0 +1,2 @@
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency.UWP\XamarinDependency.UWP.csproj;x86
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\XamarinDependency.csproj;neutral

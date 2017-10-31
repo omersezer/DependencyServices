@@ -1,0 +1,43 @@
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\XamarinDependency.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\XamarinDependency.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.csproj.CoreCompileInputs.cache
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.dll
+C:\Users\OmerSezer\Documents\Visual Studio 2017\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.pdb
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\XamarinDependency.dll
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\XamarinDependency.pdb
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.dll
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.xml
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.csprojResolveAssemblyReference.cache
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.csproj.CoreCompileInputs.cache
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.dll
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.pdb
+C:\Projects\XamarinDependency\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.Views.Sayfa.xaml.g.cs
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.csprojResolveAssemblyReference.cache
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.csproj.CoreCompileInputs.cache
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.Views.Sayfa.xaml.g.cs
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.dll
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\obj\Debug\XamarinDependency.pdb
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\XamarinDependency.dll
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\XamarinDependency.pdb
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\OmerSezer\Documents\SourceTree\Dependency Services\XamarinDependency\XamarinDependency\bin\Debug\Xamarin.Forms.Xaml.xml
